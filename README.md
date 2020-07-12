@@ -30,7 +30,7 @@ Give an example
 
 ## Built With
 
-[MATLABM](https://au.mathworks.com/) - The programming language used
+[MATLAB](https://au.mathworks.com/) - The programming language used
 
 
 
