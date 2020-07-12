@@ -36,4 +36,4 @@ Give an example
 
 ## Authors
 
-* **Jericho Limpin** - *Initial work* - [Bubble Rain](https://github.com/Bubble-Rain)
+* **Jericho Limpin** [Bubble Rain](https://github.com/Bubble-Rain)
