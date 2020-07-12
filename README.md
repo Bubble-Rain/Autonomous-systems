@@ -7,32 +7,24 @@ My part of the project was to design the pathing system for the robot in reactio
 
 ## Getting Started
 
-For those who want to compare, test, or vizualize the code use the files of compareHeuristicOptimized, compareSolutions, empiricalTesting, and visualizeOptimization.
+Nothing extra needs to be installed in order to run this code, the uploaded code uses all inbuilt MATLAB functions.
 
 
-### Compare the Heuristic and Optimized solution for a path
+### Compare the Heuristic and Optimized solution for a path (compareHeuristicOptimized.m)
 
-Explain how to run the automated tests for this system
+As long as the nodes are viable, you can change the node start name and end name by changing the number. It will display a visualization of the heuristic and optimized path.
 
+### Visualize the Optimization of a path (visualizeOptimization.m)
 
+As long as the nodes are viable, you can change the node start name and end name by changing the number. It will display a visualization of optimization by displaying the paths that are tested.
 
-Explain what these tests test and why
+### Compare the Original and Improved solution for a set of waypoints (compareSolutions.m)
 
-```
-Give an example
-```
+To test the example from the article, comment out the generateWaypoints line and uncomment the testWaypoints line. Otherwise the waypoints are randomly generated.
 
-### Visualize the Optimization of a path
+### Empirical test the average time taken (empiricalTesting.m)
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-### Compare the Original and Improved solution for a set of waypoints
-
-### Empirical test the average time taken
-
+Change the numberOfIterations variable to determine how much closer to the true average you want to find. In the end the multiplciative increase is in the double digits.
 
 ## Built With
 
