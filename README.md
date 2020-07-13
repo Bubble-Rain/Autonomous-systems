@@ -4,6 +4,8 @@ For our autonomous systems assignment, we were given the task of simulating a ro
 
 My part of the project was to design the pathing system for the robot in reaction to the randomly generated waypoints but without considering the obstacles. Also included is an improved solution that I thought of after the assignment was completed.
 
+For anyone who'd like to learn in depth about my thought processes for this project, you can read the corresponding article at this link https://www.linkedin.com/pulse/finding-opportunities-creative-stem-assignment-jericho-limpin.
+
 
 ## Getting Started
 
